@@ -1,7 +1,7 @@
 # DSA-Bootcamp
 ### Introduction to Programing  
-       Type of languages
-       Memory management      
+       1.Type of languages
+       2. Memory management      
 ### Flow of program
       Flowcharts
       Pseudocode
