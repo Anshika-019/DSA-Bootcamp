@@ -155,14 +155,14 @@
     Fenwick Tree/ Binary Indexed Tree
 ### Square Root Decomposition
 ### Heaps
-   Introduction
-   Theory
-   Priority Queue
-   HeapSort
-   Two Heaps Method
-   K way merge
-   Top K element
-   Interval Problem
+    Introduction
+    Theory
+    Priority Queue
+    HeapSort
+    Two Heaps Method
+    K way merge
+    Top K element
+    Interval Problem
 ### Hashmaps
     Introduction
 ### Graph theory
