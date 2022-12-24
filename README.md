@@ -135,8 +135,6 @@
      Cycle Detection
      Single and doubly Linked List
      Reversal of Linked List
-### Hashmaps
-### Graph theory
 ### Dynamic Programming
     Introduction
     Recursion+ Recursion DP+ Iteration+ Iteration Space Optimized
