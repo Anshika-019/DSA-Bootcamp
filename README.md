@@ -59,9 +59,34 @@
     ####  Number Theory
     #### Euclidean algo
     #### Advance concepm of CP
-             Bitwise
+             1.Bitwise + DP
+             2. Extended Euclidean algorithm
+             3. Module Properties
+             4. Modulo Mulitiplicative Inverse 
+             5. Linear Diophantine Equations
+             6. Fermat's Theorem
+             7. Wilson's theorem
+             8. Lucas theorem
+             9. Chinese Rwmainder theorem
 ### Recursion
-### Backtracking
+    1.Introduction
+    2.why recursion?
+    3. Flow of recursive programs stacks
+    4. convert recursion to iteration
+    5. tree building of function calls
+    6. Tail recursion
+    7. sorting:
+       a. Merge Sort
+       b. Quick Sort
+   ### Backtracking
+     1. Sudoku Solver
+     2. N Queen
+     3. N Knights
+     4. Maze Problems
+   ### Recursion String Problem
+   ### Recursion Array Problem
+   ### Recursion Pattern Problem
+   ### Subset Questions
 ### Time and space Compexity
 ### Object Oriented Programming
 ### Linked List
